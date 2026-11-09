@@ -1,0 +1,76 @@
+- !<AssetImportMetadata/e0fcbbf4-7bfa-4d63-9982-7486e901291c>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 36c0a4d7-55e9-4a1b-8f3e-a91761721815
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 36c0a4d7-55e9-4a1b-8f3e-a91761721815
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 2578d321-100a-43d5-857c-c35850e4763b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/2578d321-100a-43d5-857c-c35850e4763b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: ac91375e-3fa8-4fe7-a8ea-5be149a746c2
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    boxMesh: false
+    cylMesh: false
+    font: false
+    matAmber: false
+    matCounter: false
+    matGold: false
+    matHighlight: false
+    matRule: false
+    matSugar: false
+    matWater: false
+    planeMesh: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - font: !<reference.Font> 00000000-0000-0000-0000-000000000000
+      boxMesh: !<reference.RenderMesh> 00000000-0000-0000-0000-000000000000
+      cylMesh: !<reference.RenderMesh> 00000000-0000-0000-0000-000000000000
+      planeMesh: !<reference.RenderMesh> 00000000-0000-0000-0000-000000000000
+      matSugar: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      matCounter: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      matAmber: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      matGold: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      matWater: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      matHighlight: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      matRule: !<reference.Material> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.Font font
+    - // @input Asset.RenderMesh boxMesh
+    - // @input Asset.RenderMesh cylMesh
+    - // @input Asset.RenderMesh planeMesh
+    - // @input Asset.Material matSugar
+    - // @input Asset.Material matCounter
+    - // @input Asset.Material matAmber
+    - // @input Asset.Material matGold
+    - // @input Asset.Material matWater
+    - // @input Asset.Material matHighlight
+    - // @input Asset.Material matRule

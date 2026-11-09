@@ -1,0 +1,3 @@
+Read devpost/design-brief.md and build it for SPECS. Follow the brief closely. Get the basic flow working first, then add detail. Write and run LEAF tests for each done criterion, and tell me which pass.
+
+I'm working hands off and can't answer questions during this build, so don't stop to ask me anything. When a choice comes up, pick the option that best fits the brief, note it, and keep going. Get the core flow (pinch a product, sugar cubes drop beside it, truth tag and verdict appear, Reset clears) working in the preview first, before any polish or the optional Ask tab. Keep the look clean: light thin text, no heavy panels or glows.

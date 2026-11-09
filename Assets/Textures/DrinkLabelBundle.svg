@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#f2efe8"/>
+
+  <!-- ============ LEFT: front of pack ============ -->
+  <rect x="24" y="24" width="580" height="592" rx="10" fill="#ffffff" stroke="#c9c3b6" stroke-width="2"/>
+  <text x="44" y="62" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#8c8578">FRONT OF PACK</text>
+
+  <!-- bottle label artwork -->
+  <rect x="64" y="86" width="500" height="500" rx="14" fill="#ff8a1f"/>
+  <rect x="64" y="86" width="500" height="150" rx="14" fill="#ffb043"/>
+  <text x="314" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="56" font-weight="bold" fill="#ffffff">Island Delight</text>
+  <text x="314" y="196" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="4" fill="#ffffff">TROPICAL PUNCH</text>
+
+  <rect x="104" y="268" width="420" height="88" rx="44" fill="#ffffff"/>
+  <text x="314" y="324" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#c2540a">MADE WITH 100% NATURAL FLAVOUR</text>
+
+  <text x="314" y="416" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#ffffff">No artificial colours</text>
+  <text x="314" y="462" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#ffffff">A source of Vitamin C</text>
+
+  <text x="314" y="548" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="bold" fill="#ffffff">500 ml</text>
+
+  <!-- ============ RIGHT: nutrition panel + price ============ -->
+  <rect x="628" y="24" width="628" height="592" rx="10" fill="#ffffff" stroke="#c9c3b6" stroke-width="2"/>
+  <text x="648" y="62" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#8c8578">BACK OF PACK</text>
+
+  <rect x="652" y="82" width="440" height="438" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+  <text x="672" y="126" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#111111">Nutrition Facts</text>
+  <line x1="652" y1="142" x2="1092" y2="142" stroke="#111111" stroke-width="3"/>
+  <text x="672" y="176" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#111111">Serving size: 1 bottle (500 ml)</text>
+  <line x1="652" y1="192" x2="1092" y2="192" stroke="#111111" stroke-width="8"/>
+
+  <text x="672" y="232" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#111111">Energy</text>
+  <text x="1072" y="232" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#111111">190 kcal</text>
+  <line x1="652" y1="248" x2="1092" y2="248" stroke="#111111" stroke-width="2"/>
+
+  <text x="672" y="288" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#111111">Total Carbohydrate</text>
+  <text x="1072" y="288" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#111111">47 g</text>
+  <line x1="652" y1="304" x2="1092" y2="304" stroke="#111111" stroke-width="2"/>
+
+  <text x="700" y="344" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="bold" fill="#111111">Total Sugars</text>
+  <text x="1072" y="344" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="bold" fill="#111111">44 g</text>
+  <line x1="652" y1="360" x2="1092" y2="360" stroke="#111111" stroke-width="2"/>
+
+  <text x="672" y="400" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#111111">Protein</text>
+  <text x="1072" y="400" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#111111">0 g</text>
+  <line x1="652" y1="416" x2="1092" y2="416" stroke="#111111" stroke-width="8"/>
+
+  <text x="672" y="452" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">INGREDIENTS: Water, Sugar, Fruit Juice</text>
+  <text x="672" y="482" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">from Concentrate (6%), Citric Acid,</text>
+  <text x="672" y="512" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">Natural Flavour, Vitamin C.</text>
+
+  <!-- shelf price sticker -->
+  <rect x="1116" y="82" width="124" height="124" rx="10" fill="#ffe14d" stroke="#111111" stroke-width="3"/>
+  <text x="1178" y="124" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#111111">PRICE</text>
+  <text x="1178" y="158" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#111111">JMD</text>
+  <text x="1178" y="190" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#111111">210</text>
+
+  <text x="652" y="566" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#6b6457">Juice content: 6%  ·  500 ml bottle  ·  Shelf price JMD 210</text>
+</svg>
